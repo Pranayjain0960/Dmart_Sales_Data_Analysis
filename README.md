@@ -14,11 +14,11 @@ The goal of this project is to analyze the sales data of DMart, identify seasona
 ->README.md	(Project overview and instructions)
 
 📊 Key Insights
-📈 January shows the highest sales, while February records the lowest.
-📅 2024 sales slightly increased compared to 2023, indicating positive growth.
-👥 Premium and Member customers contribute more to sales than Regular ones.
-🛍️ Sales are distributed across various product categories — Grocery and Electronics being top contributors.
-📊 Visualizations include bar plots, pie charts, and yearly comparisons.
+-📈 January shows the highest sales, while February records the lowest.
+-📅 2024 sales slightly increased compared to 2023, indicating positive growth.
+-👥 Premium and Member customers contribute more to sales than Regular ones.
+-🛍️ Sales are distributed across various product categories — Grocery and Electronics being top contributors.
+-📊 Visualizations include bar plots, pie charts, and yearly comparisons.
 
 
 🛠️ Technologies Used
